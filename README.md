@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my thesis <br>👯 I’m looking to collaborate with people in the near future<br>🌱 I’m currently learning Software Engineering<br>
+🔭 I’m currently working on my thesis 
 
 
 ## 🌐 Socials:
