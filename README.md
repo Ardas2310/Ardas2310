@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on my thesis 
+🔭 Currently working on my thesis:
+## RNN and LSTM with python and tensorflow
 
 
 ## 🌐 Socials:
